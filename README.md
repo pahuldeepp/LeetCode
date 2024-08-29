@@ -19,13 +19,6 @@ I'm a passionate developer with a strong interest in algorithms and data structu
 
 As a developer dedicated to my craft, I am continually striving to deepen my understanding of efficient algorithms and complex data structures. My goal is to leverage this expertise to develop software solutions that are both impactful and innovative.
 
-## Projects
-
-Here you can include some of the significant projects you are working on or have completed. Describe them briefly and provide links if they are hosted online.
-
-### Project Name
-
-Brief description of the project. [View Project](#)
 
 ## Installation and Usage
 
